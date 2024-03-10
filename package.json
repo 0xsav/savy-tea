@@ -1,0 +1,22 @@
+{
+  "name": "savy-tea",
+  "version": "1.0.0",
+  "description": "new pj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xsav/savy-tea.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xsav/savy-tea/issues"
+  },
+  "homepage": "https://github.com/0xsav/savy-tea#readme"
+}
